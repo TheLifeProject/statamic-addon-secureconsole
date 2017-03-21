@@ -24,3 +24,14 @@ server(s).
 
 Running the site in this way allows for some administrative security, as well as ease of site deployment to multiple
 production endpoints.
+   
+### Followup Notes:
+
+- Please post any issues you experience to 
+  https://github.com/TheLifeProject/statamic-addon-secureconsole/issues
+  
+- Feature requests and suggestions are welcome.
+  
+- This software package comes with no warranty either stated or implied.
+  We do our best to ensure it functions well, but ultimately you use it 
+  at your own risk.
