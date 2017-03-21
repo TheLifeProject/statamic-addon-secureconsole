@@ -18,8 +18,8 @@ This will cause the software to point any search engines to the correct URL for 
 ## Intended Use Case
 
 This addon is intended to be run on statamic installations where the management of the site data (editing
-content and the like) is done on a secondary domain such as console.domain.com. This console domain can be watched for 
-changes, and when changes are published can have the files committed to git and subsequently deployed to the production 
+content and the like) is done on a secondary domain such as dev.domain.com. This dev domain can be watched for changes, 
+and when changes are published can have the files committed to git and subsequently deployed to the production 
 server(s).
 
 Running the site in this way allows for some administrative security, as well as ease of site deployment to multiple

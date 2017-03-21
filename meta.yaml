@@ -1,6 +1,6 @@
 name: Secure Console
 version: "1.0"
-description: Secure statamic sites to prevent robots and only allow control panel access on the console sites.
+description: Secure statamic sites to prevent robots and only allow control panel access on the non-production sites.
 url: https://thelifeproject.com
 developer: The Life Project
 developer_url: https://thelifeproject.com
